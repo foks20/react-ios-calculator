@@ -3,7 +3,7 @@
 This project recreates the iconic iOS calculator interface using ReactJS. Designed to mimic the look and functionality of the native iOS calculator, this application provides a familiar user experience for desktop web browsers. 
 
 
-<img src="./logo.svg" alt="demo" width="400"/>
+<img src="./src/logo.svg" alt="demo" width="400"/>
 
 
 ## Requirements

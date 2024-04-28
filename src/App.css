@@ -1,0 +1,88 @@
+.App {
+  text-align: center;
+  background: black;
+  height: 100vh;
+  padding-top: 50px;
+}
+
+.calculator {
+  max-width: 570px;
+  margin: auto;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  height: auto;
+  padding: 30px;
+}
+
+.text-display {
+  width: 100%;
+  min-height: 120px;
+  font-size: 100px;
+  color: white;
+}
+
+.keypad {
+  width: 100%;
+  height: 800px;
+
+  border: unset;
+  /* all: unset */
+}
+
+.orange-btn {
+  width: 120px;
+  height: 120px;
+  background: orange;
+  font-size: 2rem;
+  border-radius: 50%;
+}
+
+.light-gray-btn{
+  width: 120px;
+  height: 120px;
+  background: lightgray;
+  font-size: 2rem;
+  border-radius: 50%;
+}
+
+.footer{
+  width: 100%;
+  height: 100%;
+  background: grey;
+  font-size: 2rem;
+}
+
+
+
+.zero-btn-lhs {
+  /* width: 120px; */
+
+  width: 100%;
+
+  height: 120px;
+  /* background: lightgray; */
+
+  color: black;
+  background: lightgray;
+  font-size: 2rem;
+  margin-right: -20px;
+
+
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+}
+
+.zero-btn-rhs {
+  /* width: 120px; */
+  width: 100%;
+  height: 120px;
+  /* background: lightgray; */
+  font-size: 2rem;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  color: lightgray;
+  background: lightgray;
+  margin-left: -20px;
+
+}
+

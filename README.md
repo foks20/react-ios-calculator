@@ -25,6 +25,7 @@ NodeJS v21.7.1
 ## Credits
  
 Developer - Samuel Fok (@foks20)
+
 Mentor - Randy Lopez (@quantyle)
  
 ## License

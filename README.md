@@ -5,8 +5,8 @@
 This project recreates the iconic iOS calculator interface using ReactJS. Designed to mimic the look and functionality of the native iOS calculator, this application provides a familiar user experience for desktop web browsers. 
 
 <div style="position: relative;">
-    <img src="./src/logo.svg" alt="demo" width="300"/>
-    <img src="./react-ios-calculator.png" alt="drawing" width="300"/>
+    <img src="./react-ios-calculator.png" alt="drawing" height="400"/>
+    <img src="./src/logo.svg" alt="demo" width="400"/>
 </div>
 
 ## Requirements
